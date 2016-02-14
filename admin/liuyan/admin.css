@@ -1,0 +1,227 @@
+/*编辑器样式*/
+.time {  font-family: "Geneva", "Arial", "Helvetica", "san-serif"; font-size: 7pt; color: #BFBFBF}
+
+.heading
+{
+BACKGROUND: #eeeeee;
+COLOR: #000000
+}
+.theiframe
+{
+BACKGROUND-COLOR: #D4D0C8;
+POSITION: relative
+}
+.btnmouseout{
+  border:1 solid #D4D0C8;
+  background:#D4D0C8;
+}
+.btnmouseover {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #FFFFFF;
+}
+.btnmousedown {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #999999;
+
+}
+.btnselected {
+	background-color: #eeeeee;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #999999;
+}
+.border1 {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #FFFFFF;
+	border-left-color: #999999;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #999999;
+}
+.border2 {
+
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #999999;
+	border-left-color: #FFFFFF;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #999999;
+	border-bottom-color: #FFFFFF;
+}
+.btnmouseup {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #999999;
+	background-color: #FFFFFF;
+
+}
+.dis {
+	filter: Gray;
+}
+.border3 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #FFFFFF;
+}
+
+
+/*
+*	重载系统样式
+*/
+
+body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	overflow-x:hidden;
+	padding-left:0px;
+
+}
+td{
+font-size:12px;
+}
+input {
+	border: 1px solid #999999;
+}
+a {
+	color: #0000FF;
+	text-decoration: underline;
+}
+a:hover {
+	color: #0000CC;
+	text-decoration: none;
+}
+
+/*
+*	自定义样式
+*/
+
+.Px12
+{
+font-size:12px;
+}
+.Px14
+{
+font-size:14px;
+}
+.Px16
+{
+font-size:16px;
+}
+.Px18
+{
+font-size:18px;
+}
+.Px12B
+{
+font-size:12px;
+font-weight:bolder;
+}
+.Px14B
+{
+font-size:14px;
+font-weight:bolder;
+}
+.Px16B
+{
+font-size:12px;
+font-weight:bolder;
+color:#3573C4;
+}
+.Px18B
+{
+font-size:18px;
+font-weight:bolder;
+}
+.GreyBg0
+{
+background-color:#F0F5FB;
+}
+.GreyBg1
+{
+background-color:#E1EBF4;
+}
+.GreyBg2
+{
+background-color:#CDDEED;
+}
+.GreyBg3
+{
+background-color:#A0C0DE;
+}
+.GreyBg4
+{
+background-color:#81ACD3;
+}
+.WriteBg
+{
+background-color:#ffffff;
+}
+
+.PadLeft20 {
+	padding-left: 20px;
+}
+.readonly{
+	filter:alpha(opacity=50);
+}

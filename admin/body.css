@@ -1,0 +1,124 @@
+body,table,span,div {font-size:9pt;}
+td{line-height:28px;}
+html, body {
+	scrollbar-face-color: #15A3D9;
+	scrollbar-highlight-color: #555555;
+	scrollbar-3dlight-color: #555555;
+	scrollbar-darkshadow-color: #60B7DE;
+	scrollbar-shadow-color: #555555;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #A4D6EA;
+	background: #dae6f3;
+	margin:7 7 7 7;
+}
+.input	{
+	BORDER: #6699CC 1px solid; FONT-FAMILY: "ËÎÌו";line-height:20px;
+}
+.go 	{
+	padding: 1px 1px 1px 1px;
+	border: #ffffff 1px outset;
+	FONT-SIZE: 9pt;
+	CURSOR: hand;
+	COLOR: #333333;
+	FONT-FAMILY: "ËÎÌו"; 
+	HEIGHT: 19px; 
+	BACKGROUND-COLOR: #eeeeee
+}
+form {
+	margin: 0px;
+}
+.button {
+	font: 12px Arial, Helvetica, sans-serif;
+	padding: 0 6px;
+	color: #000000;
+	background: #bedeff url(bg_button.gif) repeat-x;
+
+	/*for Mozilla*/
+ 	outline: 1px solid #296c89 ;
+	border: 1px solid #FFFFFF !important;
+	height: 24px !important;
+	line-height: 22px !important;
+
+	/*for IE7*/
+	> border: 1px solid #296C89 !important;
+	> height: 26px !important;
+	> line-height: 20px !important;
+
+	/*for IE*/
+	border: 1px solid #296C89 ;
+	height: 26px;
+	line-height: 20px;
+}
+ul	{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style-type :none;
+}
+li	{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	height:18px;
+}
+.hei	{
+	color:#333;text-decoration:none;
+}
+.hei a:link{
+	color:#333;text-decoration:none;
+}
+.hei a:visited{
+	color:#333;text-decoration:none;
+}
+.hei a:hover{
+	color:#ff6600;text-decoration:underline;
+}
+.hui	{
+	color:#666;text-decoration:none;
+}
+.hui a:link{
+	color:#666;text-decoration:none;
+}
+.hui a:visited{
+	color:#666;text-decoration:none;
+}
+.hui a:hover{
+	color:#ff6600;text-decoration:underline;
+}
+.bai	{
+	color:#fff;text-decoration:none;
+}
+.bai a:link{
+	color:#fff;text-decoration:none;
+}
+.bai a:visited{
+	color:#fff;text-decoration:none;
+}
+.bai a:hover{
+	color:#ff6600;text-decoration:underline;
+}
+.cu		{
+	font-weight:bold;
+}
+.tdbg1	{
+	background:#fff;
+}
+.tdbg2	{
+	background:#F1F5F8;
+}
+.tddi	{
+	border-bottom:#BBDCF1 1px solid;
+}
+.ge	{
+	padding-left:13px;
+}
+.cate li	{
+	float:left;
+	width:120px;
+	line-height:23px;
+	height:23px;
+	padding-left:15px;
+	text-align:center;
+}
+.bgtil	{
+	background-color:#F0F0F0;
+	border-bottom:#BBDCF1 1px solid;
+}

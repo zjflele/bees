@@ -1,0 +1,79 @@
+<STYLE type=text/css>A:link {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+BODY {
+	FONT-SIZE: 12px; SCROLLBAR-ARROW-COLOR: #dde3ec; SCROLLBAR-BASE-COLOR: #f8f9fc; BACKGROUND-COLOR: #dde3ec
+}
+TABLE {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana
+}
+TEXTAREA {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #f8f9fc
+}
+INPUT {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #f8f9fc
+}
+OBJECT {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #f8f9fc
+}
+SELECT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial; BACKGROUND-COLOR: #f8f9fc
+}
+.nav {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Tahoma, Verdana
+}
+.navtd {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; TEXT-DECORATION: none
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #0099CC
+}
+.category {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/default/catbg.gif); COLOR: #000000; FONT-FAMILY: Arial
+}
+.multi {
+	FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: Arial
+}
+.smalltxt {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial
+}
+.mediumtxt {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.tableout {
+	BORDER-RIGHT: #666aaa 1px solid; BORDER-TOP: #666aaa 1px solid; BACKGROUND: #dde3ec; BORDER-LEFT: #666aaa 1px solid; BORDER-BOTTOM: #666aaa 1px solid
+}
+
+.float_del, .float_edit { position: absolute; width: 13px; height: 14px; background: url(../images/delete.gif) no-repeat 0 0; top: 0.5em; right: 5px; text-indent: -999em; overflow: hidden; display: block; }
+	.float_del:hover { background-position: 0 -14px; }
+
+.popupmenu_popup { padding: 1em; border: 3px solid #FF8E00; background: #FCF9E6; line-height: 1.4em; text-align: left; overflow: hidden; }
+    .popupmenu_popup h1 { font-size: 1.17em; padding: 0 0 10px 0; }
+    .popupmenu_popup td { padding-bottom: 0.4em; }
+    .popupmenu_popup .float_del{ background-image: url(../images/delete2.gif); }
+   
+.popupmenu_centerbox { border: 8px solid #FFAE4A; background: #FCF9E6; text-align: left; min-width:250px; max-width:550px; }
+    .popupmenu_centerbox h1 { padding: 0 10px; color: #FF9919; font-size: 14px; line-height: 26px; cursor: move; }
+    
+    .popupmenu_centerbox .popupmenu_inner { padding: 10px; color: #444; }
+        .popupmenu_centerbox .popupmenu_inner td{ line-height: 200%; }
+            .popupmenu_centerbox .popupmenu_inner .t_input, .popupmenu_centerbox .popupmenu_inner textarea{ margin: 5px 0; border-color: #EBE6C9; }
+            
+            .popupmenu_centerbox .float_del{ background-image: url(../images/delete2.gif); }
+    .popupmenu_centerbox .box { width: 400px; }
+  
+.popupmenu_layer{ padding: 3px 6px 6px 1px; width: 220px; height: 80px; background: url(../images/ilayer.gif) no-repeat; text-align: center; }
+	.popupmenu_layer p{ line-height: 20px; color: #333; }
+	.popupmenu_layer p.btn_line{ font-size: 14px; color: #F30; padding:2px 0; }
+	.popupmenu_layer strong{ font-weight: normal; font-size: 18px; color: #FFF; }
+
+</STYLE>
